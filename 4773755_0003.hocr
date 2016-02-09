@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4773755_0003.png"; bbox 0 0 3004 3850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 375 2532 702">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 462 375 2532 702">
+     <span class='ocr_line' id='line_1_1' title="bbox 462 375 2532 528; baseline -0.002 -28"><span class='ocrx_word' id='word_1_1' title='bbox 462 380 1221 503; x_wconf 84' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1322 378 1844 528; x_wconf 81' lang='lat' dir='ltr'>Ritschl‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1898 375 2532 499; x_wconf 78' lang='lat' dir='ltr'>Friedrich</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 462 577 1068 702; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 462 577 1068 702; x_wconf 84' lang='lat' dir='ltr'>Wilhelm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 461 1179 2039 1538">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 461 1179 2039 1538">
+     <span class='ocr_line' id='line_1_3' title="bbox 465 1179 1721 1304; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 465 1182 977 1302; x_wconf 91' lang='lat' dir='ltr'><strong>TITLE:</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1080 1183 1276 1303; x_wconf 85' lang='lat' dir='ltr'>Dc</span> <span class='ocrx_word' id='word_1_7' title='bbox 1325 1179 1721 1304; x_wconf 81' lang='lat' dir='ltr'>Plauti</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 461 1378 2039 1538; baseline 0.001 -38"><span class='ocrx_word' id='word_1_8' title='bbox 461 1378 1313 1503; x_wconf 78' lang='lat' dir='ltr'>Bacchidibus</span> <span class='ocrx_word' id='word_1_9' title='bbox 1366 1378 2039 1538; x_wconf 80' lang='lat' dir='ltr'>disputatio</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 400 1980 1854 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 400 1980 1854 2104">
+     <span class='ocr_line' id='line_1_5' title="bbox 400 1980 1854 2104; baseline 0.001 -2"><span class='ocrx_word' id='word_1_10' title='bbox 400 1982 1044 2104; x_wconf 47' lang='lat' dir='ltr'><strong>&amp;PLACEt</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1146 1980 1854 2104; x_wconf 80' lang='lat' dir='ltr'>Vratislava</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 458 2582 1397 2705">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 458 2582 1397 2705">
+     <span class='ocr_line' id='line_1_6' title="bbox 458 2582 1397 2705; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 458 2583 956 2705; x_wconf 85' lang='lat' dir='ltr'><strong>DATE:</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1077 2582 1397 2704; x_wconf 82' lang='lat'>1836</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3004 3850">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3004 3850">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 3004 3850; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 3004 3850; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
